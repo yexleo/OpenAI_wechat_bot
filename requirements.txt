@@ -1,0 +1,7 @@
+uiautomation
+Pillow
+pywin32
+psutil
+ttkbootstrap
+openai
+dotenv
