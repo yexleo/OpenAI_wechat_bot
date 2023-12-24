@@ -4,4 +4,4 @@ pywin32
 psutil
 ttkbootstrap
 openai
-dotenv
+python-python-dotenv
